@@ -1,0 +1,19 @@
+[color]
+	ui = true
+	diff = auto
+ 	status = auto
+ 	branch = auto
+ 	interactive = auto
+ 	ui = auto
+[user]
+	name = Vitulli
+	email = rovitulli@gmail.com
+[push]
+	default = matching
+[gc]
+ 	auto=1
+[merge]
+	summary=true
+[core]
+        editor = vim
+
